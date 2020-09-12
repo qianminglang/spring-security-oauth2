@@ -1,0 +1,7 @@
+# Project exclude paths
+/spring-security-oauth2-server/target/
+/spring-security-oauth2-dependencies/spring-security-oauth2-dependencies.iml
+/spring-security-oauth2-server/spring-security-oauth2-server.iml
+/.idea/
+/spring-security-oauth2-resource/spring-security-oauth2-resource.iml
+/spring-security-oauth2-resource/target/
